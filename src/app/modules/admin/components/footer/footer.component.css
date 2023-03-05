@@ -1,0 +1,19 @@
+
+footer{
+    background-color: rgb(20, 171, 218);
+    height: 200px;
+    /* width: 600px; */
+    margin-top: 26px;
+    align-items: center;
+}
+ul{
+    list-style: none;
+   gap: 10px;
+   cursor: pointer;
+   padding: 10px 10px;
+
+}
+
+ul li{
+    color: black;
+}

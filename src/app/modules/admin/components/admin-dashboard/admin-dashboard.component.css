@@ -1,0 +1,14 @@
+
+nav{
+    background-color: gray;
+    height: 200px;
+    width: 100px;
+    margin: 20px;
+align-items: center;
+}
+ul{
+    list-style: none;
+   gap: 10px;
+   cursor: pointer;
+   padding: 10px 10px;
+}
